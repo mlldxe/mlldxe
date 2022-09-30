@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p>
   <img src="https://weather-icon.journeyad.repl.co/@guangzhou?v=1" align="right">
 </p>
@@ -23,8 +25,20 @@
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=mlldxe&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Metrics Stats
+![Metrics](https://metrics.lecoq.io/mlldxe?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlldxe&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Activity Stats
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mlldxe)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+#### Punch information
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mlldxe&theme=dark)](https://git.io/streak-stats)
+
+#### GitHub Stats
+<img src="https://stats.justsong.cn/api/github?username=mlldxe">
 
 #### 📊 每周工作报告
 ```text
