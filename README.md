@@ -1,4 +1,3 @@
-### Hi there 👋
 <p>
   <img src="https://weather-icon.journeyad.repl.co/@guangzhou?v=1" align="right">
 </p>
