@@ -24,6 +24,9 @@
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=mlldxe&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
+#### GitHub Stats
+<img src="https://stats.justsong.cn/api/github?username=mlldxe">
+
 #### Metrics Stats
 ![Metrics](https://metrics.lecoq.io/mlldxe?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
@@ -35,9 +38,6 @@
 
 #### Punch information
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mlldxe&theme=default)](https://git.io/streak-stats)
-
-#### GitHub Stats
-<img src="https://stats.justsong.cn/api/github?username=mlldxe">
 
 #### 📊 每周工作报告
 ```text
