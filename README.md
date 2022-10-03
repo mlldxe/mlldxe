@@ -34,7 +34,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mlldxe)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Punch information
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mlldxe&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mlldxe&theme=default)](https://git.io/streak-stats)
 
 #### GitHub Stats
 <img src="https://stats.justsong.cn/api/github?username=mlldxe">
