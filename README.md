@@ -24,7 +24,6 @@
 #### Github Stats
 [![info](https://github-readme-stats.vercel.app/api?username=mlldxe&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
-#### GitHub Stats
 <img src="https://stats.justsong.cn/api/github?username=mlldxe">
 
 #### Metrics Stats
