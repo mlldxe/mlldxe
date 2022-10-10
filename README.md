@@ -6,6 +6,8 @@
 
 ![:mlldxe](https://count.getloli.com/get/@:mlldxe?theme=moebooru)
 
+![:mlldxe](https://count.getloli.com/get/@:mlldxe)
+
 ![sumy7](https://komarev.com/ghpvc/?username=mlldxe) 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
