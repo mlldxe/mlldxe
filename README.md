@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E5%92%A6%EF%BC%9F%E6%88%91%E6%98%AF%E8%B0%81%EF%BC%9F%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%9C%A8%E8%BF%99%EF%BC%9F;Eh%3F+Who+am+I%3F+Why+am+I+here%3F)](https://git.io/typing-svg)
 
-![:mlldxe](https://count.getloli.com/get/@:mlldxe?theme=gelbooru)
-
-![:mlldxe](https://count.getloli.com/get/@:mlldxe)
+![:mlldxe](https://count.getloli.com/get/@:mlldxe?theme=gelbooru)  //计数
 
 ![sumy7](https://komarev.com/ghpvc/?username=mlldxe) 
 #### Platform&Tools
