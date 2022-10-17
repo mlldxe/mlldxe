@@ -6,7 +6,6 @@
 
 ![:mlldxe](https://count.getloli.com/get/@:mlldxe?theme=gelbooru) 
 
-![sumy7](https://komarev.com/ghpvc/?username=mlldxe) 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/iPhone-13-pink?style=flat-square&logo=apple&logoColor=ffffff)](https://www.iphone.com/)
