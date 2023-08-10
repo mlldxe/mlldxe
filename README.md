@@ -30,9 +30,6 @@
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlldxe&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Activity Stats
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mlldxe)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 #### Punch information
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mlldxe&theme=default)](https://git.io/streak-stats)
 
